@@ -1,0 +1,3 @@
+[submodule "imu_calibration"]
+	path = imu_calibration
+	url = https://github.com/AlbertoJaenal/imu_still_calibration
